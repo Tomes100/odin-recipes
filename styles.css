@@ -1,0 +1,13 @@
+h1 {
+    color: forestgreen;
+    text-align: center;
+}
+
+.banner {
+    text-align: center;
+}
+
+.banner img {
+    height: 200px;
+    width: 800px;
+}
